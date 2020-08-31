@@ -89,4 +89,4 @@ That's it! You can code!
   
 - Find a way to handle pagination on route GET /books and POST /books/search
 
-- Add some validation to ensure that data are valid when creating a Book**
+- Add some validation to ensure that data are valid when creating a **Book**
